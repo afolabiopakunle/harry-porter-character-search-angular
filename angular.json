@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "harryPotterCharactersSearch"
+  "defaultProject": "harryPotterCharactersSearch",
+  "cli": {
+    "analytics": "f04be1d2-dcfe-4015-b851-05a9df2a0bd6"
+  }
 }
