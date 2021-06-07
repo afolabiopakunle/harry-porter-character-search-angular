@@ -51,8 +51,8 @@ h1 {
     height: 32px;
     border-radius: 3px;
     border: 1px solid #eaeaea;
-    padding: 5px 10px;
-    font-size: 12px;
+    padding: 25px 10px;
+    font-size: 20px;
 }
 
 #searchWrapper {
@@ -62,6 +62,6 @@ h1 {
 #searchWrapper::after {
     content: '🔍';
     position: absolute;
-    top: 5px;
+    top: 15px;
     right: 15px;
 }
